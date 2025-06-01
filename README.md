@@ -19,3 +19,6 @@ Key visualizations included total revenue tracking, weekday-wise revenue analysi
 
 The dashboard effectively highlighted critical metrics such as cancellation rates, profit-loss margins, and occupancy trends, helping stakeholders make data-driven decisions. This project demonstrated the power of BI tools in transforming raw data into actionable insights for the hospitality sector.
 OUTPUT ---
+![Image](https://github.com/user-attachments/assets/50e6fb15-c174-496e-b842-fb44e17c542e)
+![Image](https://github.com/user-attachments/assets/8bd1ffb3-082f-4485-8a4f-672a87b84cb9)
+![Image](https://github.com/user-attachments/assets/92c4688d-1723-48b5-95dc-0e2301ece1ee)
